@@ -23,8 +23,7 @@ class Codechef
 	     System.out.println("YES");
 	 else
 	 System.out.println("NO");
-	     
-	    
-
 	}
 }
+# Problem: Search an element in array
+# Platform: codechef
